@@ -1,3 +1,4 @@
+<img src="https://blog.openreplay.com/images/a-practical-guide-to-github-actions/images/hero.png" height="250" width="3500">
 <h1 align="center">Hi 👋, I'm Tanishka Gupta</h1>
 <h3 align="center">An enginering student and a passionate frontend developer</h3>
 
