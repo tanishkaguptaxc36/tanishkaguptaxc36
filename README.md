@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tanishka Gupta</h1>
 <h3 align="center">An enginering student and a passionate frontend developer</h3>
 
+
 - 🌱 I’m currently learning **DSA, AIML, Nextjs**
 
 - 📫 How to reach me **tanishkaguptaxc36@gmail.com**
